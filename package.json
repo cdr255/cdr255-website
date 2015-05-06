@@ -1,0 +1,12 @@
+{
+  "name": "cdr255.com",
+  "version": "0.1.0",
+  "description": "Personal Website of Christopher Rodriguez",
+  "dependencies": {
+    "harp": "*"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
