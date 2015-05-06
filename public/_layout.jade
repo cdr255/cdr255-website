@@ -1,0 +1,15 @@
+doctype html
+html(lang="en")
+  head
+    title= title
+    link(rel="stylesheet" href="/main.css")
+  body
+    #header
+      != partial("_header")
+    #main
+      #content
+        != yield
+      #subcontent
+        != partial("_sidebar")
+    #footer
+      != partial("_footer")
