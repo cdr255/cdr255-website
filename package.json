@@ -12,7 +12,8 @@
     "transformer": "0.0.8",
     "transformers": "^3.1.0",
     "uglify-js": "*",
-    "void-elements": "^2.0.1"
+    "void-elements": "^2.0.1",
+    "with": "^5.0.0"
   },
   "repository": {
     "type": "git",
