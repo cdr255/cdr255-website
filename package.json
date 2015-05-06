@@ -3,7 +3,17 @@
   "version": "0.1.0",
   "description": "Personal Website of Christopher Rodriguez",
   "dependencies": {
-    "harp": "0.17.0"
+    "character-parser": "^1.2.2",
+    "constantinople": "^3.0.1",
+    "harp": "0.17.0",
+    "html-minifier": "*",
+    "language-classifier": "*",
+    "sqwish": "*",
+    "transformer": "0.0.8",
+    "transformers": "^3.1.0",
+    "uglify-js": "*",
+    "void-elements": "^2.0.1",
+    "with": "^5.0.0"
   },
   "repository": {
     "type": "git",
