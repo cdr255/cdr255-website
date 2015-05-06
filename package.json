@@ -8,6 +8,7 @@
     "html-minifier": "*",
     "language-classifier": "*",
     "sqwish": "*",
+    "transformer": "0.0.8",
     "uglify-js": "*"
   },
   "repository": {
