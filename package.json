@@ -3,7 +3,12 @@
   "version": "0.1.0",
   "description": "Personal Website of Christopher Rodriguez",
   "dependencies": {
-    "harp": "*"
+    "harp": "0.17.0"
+  , "sqwish": "*"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/cdr255/cdr255-website.git"
   },
   "engines": {
     "node": "0.10.x",
