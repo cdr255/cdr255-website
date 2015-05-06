@@ -4,6 +4,7 @@
   "description": "Personal Website of Christopher Rodriguez",
   "dependencies": {
     "character-parser": "^1.2.2",
+    "constantinople": "^3.0.1",
     "harp": "0.17.0",
     "html-minifier": "*",
     "language-classifier": "*",
