@@ -3,18 +3,22 @@
   "version": "0.1.0",
   "description": "Personal Website of Christopher Rodriguez",
   "dependencies": {
-    "harp": "0.17.0"
-  , "sqwish": "*"
-  , "language-classifier": "*"
-  , "html-minifier": "*"
-  , "uglify-js": "*"
+    "character-parser": "^1.2.2",
+    "harp": "0.17.0",
+    "html-minifier": "*",
+    "language-classifier": "*",
+    "sqwish": "*",
+    "uglify-js": "*"
   },
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/cdr255/cdr255-website.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdr255/cdr255-website.git"
   },
   "engines": {
-    "node": "0.10.x",
+    "node": "0.10.28",
     "npm": "1.2.x"
+  }
+  "scripts": {
+    "start": "node server.js"
   }
 }
