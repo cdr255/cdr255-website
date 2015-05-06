@@ -11,7 +11,8 @@
     "sqwish": "*",
     "transformer": "0.0.8",
     "transformers": "^3.1.0",
-    "uglify-js": "*"
+    "uglify-js": "*",
+    "void-elements": "^2.0.1"
   },
   "repository": {
     "type": "git",
