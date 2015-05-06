@@ -5,6 +5,7 @@
   "dependencies": {
     "harp": "0.17.0"
   , "sqwish": "*"
+  , "language-classifier": "*"
   },
   "repository" :
   { "type" : "git"
