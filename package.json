@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Personal Website of Christopher Rodriguez",
   "dependencies": {
-    "harp": "0.17.0",
+    "harp": "0.17.0"
   },
   "repository": {
     "type": "git",
