@@ -9,6 +9,7 @@
     "language-classifier": "*",
     "sqwish": "*",
     "transformer": "0.0.8",
+    "transformers": "^3.1.0",
     "uglify-js": "*"
   },
   "repository": {
