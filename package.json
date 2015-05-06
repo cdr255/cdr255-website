@@ -6,6 +6,7 @@
     "harp": "0.17.0"
   , "sqwish": "*"
   , "language-classifier": "*"
+  , "html-minifier": "*"
   },
   "repository" :
   { "type" : "git"
