@@ -12,23 +12,15 @@ something on here You have a claim to, and want it taken down, please
 
 ---
 
-### Leadsheets
+### Leadsheets / Tab
 
-#### Rock / Pop
+__COMING SOON!__
 
- - Anyone Else But You
+As time goes on, I will have more and more lead sheets, sheet music,
+and tablature freely available to download here. I want them all to
+match, stylistically, and be equally usable no matter how good Your
+eyesight is (mine is HORRIBLE!). As I convert them all to a newer,
+standard format, I will upload them here.
 
-#### Traditional
-
- - Waltzing Matilda
- 
----
-
-### Sheet Music / Tabs
-
-#### Banjo
-
- - Wildwood Flower
-
-[map]: # " "
+[map]: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=off&q=somerdale%20nj " "
 [contact]: mailto:cdr255@gmail.com " "
