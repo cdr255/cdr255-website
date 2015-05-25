@@ -16,12 +16,12 @@ respective groups:
    the free software tools that this system is built on.
 
  - [Linus Torvalds][linus] and the [Linux Foundation][lf], which
-   created the kernel and made it all fit together.
+   created the kernel and advocate for its use worldwide.
 
 
-[linux]: # " "
-[quiz]: # " "
-[slackware]: # " "
-[rms]: # " "
-[linus]: # " "
-[lf]: # " "
+[linux]: http://www.gnu.org/gnu/linux-and-gnu.en.html " "
+[quiz]: http://tuxradar.com/content/distro-picker-0 " "
+[slackware]: http://www.slackware.com/ " "
+[rms]: https://stallman.org/ " "
+[linus]: http://catb.org/~esr/faqs/linus/ " "
+[lf]: http://www.linuxfoundation.org/ " "

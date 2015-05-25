@@ -2,4 +2,61 @@
     "index": {
 	"title": "cdr255.com"
 	}
+    "about": {
+	"title": "About Me & This Site - cdr255.com"
+	}
+    "collections": {
+	"title": "Collections - cdr255.com"
+	}
+    "compositions": {
+	"title": "Original Compostions - cdr255.com"
+	}
+    "conlangs": {
+	"title": "My Constructed Languages - cdr255.com"
+	}
+    "eote-1": {
+	"title": "End of the Empire Playlog, Part 1 - cdr255.com"
+	}
+    "eote-2": {
+	"title": "End of the Empire Playlog, Part 2 - cdr255.com"
+	}
+    "eote-3": {
+	"title": "End of the Empire Playlog, Part 3 - cdr255.com"
+	}
+    "games": {
+	"title": "Games - cdr255.com"
+	}
+    "howtos": {
+	"title": "HOWTOs and FAQs - cdr255.com"
+	}
+    "index": {
+	"title": "cdr255 Home - cdr255.com"
+	}
+    "lessons": {
+	"title": "Music Lessons - cdr255.com"
+	}
+    "links": {
+	"title": "My Bookmarked Links - cdr255.com"
+	}
+    "linux": {
+	"title": "GNU/Linux - cdr255.com"
+	}
+    "logs": {
+	"title": "Playlogs and Battle Reports - cdr255.com"
+	}
+    "recordings": {
+	"title": "Recorded Performances - cdr255.com"
+	}
+    "reviews": {
+	"title": "Game Reviews - cdr255.com"
+	}
+    "software": {
+	"title": "Software and Scripts - cdr255.com"
+	}
+    "stuff": {
+	"title": "Other Miscellany - cdr255.com"
+	}
+    "support": {
+	"title": "Tech Support - cdr255.com"
+	}
 }
