@@ -39,7 +39,7 @@ and licensed to the public under the [GPLv2][gpl2].
 [elisp]: https://en.wikipedia.org/wiki/Emacs_Lisp " "
 [emacs]: https://www.gnu.org/software/emacs/ " "
 [forms]: https://www.gnu.org/software/emacs/manual/html_mono/forms.html " "
-[formspost]: http://www.toftandtoddy.com/2014/12/21/character-details/" "
+[formspost]: http://www.toftandtoddy.com/2014/12/21/character-details/ " "
 [msdoc]: https://en.wikipedia.org/wiki/Doc_(computing) " "
 [pdfs]: https://en.wikipedia.org/wiki/Portable_Document_Format " "
 [chardetailform]: https://s3.amazonaws.com/cdr255/code/character-details.form " "
