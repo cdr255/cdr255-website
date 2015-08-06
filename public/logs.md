@@ -15,8 +15,15 @@ __System:__ Dungeons and Dragons, 3.5 edition
 2. [The Guard and Faith][eote-2]
 3. [The Prison Island][eote-3]
 
+### Nuevo Muerte
+
+__System:__ Dogs in the Vineyard
+
+1. [Simone Posada][muert-1]
+
 
 [ttrpg]: http://en.wikipedia.org/wiki/Tabletop_role-playing_game " "
 [eote-1]: /eote-1 " "
 [eote-2]: /eote-2 " "
 [eote-3]: /eote-3 " "
+[muert-1]: /muert-1 " "

@@ -66,6 +66,27 @@ worth it.
 
 1. [Nubivagant (Wind Quartet)][nubivagant]
 
+---
+
+### CDR-PNU: Penant Umbra
+
+An Idea I had while I was watching some movies turned into a concept
+for a song, and a series, expressing the dual... or tri... nature of
+life, depending upon one's current perspective.
+
+1. [Penant Umbra][penantumbra]
+
+---
+
+### CDR-PYG: Project Pygmalion
+
+Two engaged lovers find an antique dress at a pawn shop and compete in
+a dangerous sport to win it. A cyberpunk romantic tragedy with
+horrific undertones. And each scene is going to have a piece of music
+associated with it.
+
+1. [&#91;PYG&#93; Malion][pygmalion] - The title theme
+
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/ "I license all of my own creative work with this license. I hated, as a young musician, feeling as though I were stealing from people as I tried to learn or play songs or tunes by people I admired. Let me know if You use one of my songs; It would make my day."
 [autumn]: https://s3.amazonaws.com/cdr255/compositions/cdr-w01.an-autumnal-meeting.pdf "This was the first composition I ever actually wrote out, in its entirety. It's special to me, even if it is a bit amateurish."
 [dancing]: https://s3.amazonaws.com/cdr255/compositions/cdr-w02.dancing-on-the-waves.pdf "With this piece, I relaxed a bit. I wanted to do something a little more bouncy and having the feel of riding on a small ship into port."
@@ -80,3 +101,5 @@ worth it.
 [title]: https://s3.amazonaws.com/cdr255/compositions/cdr-gnr01.title-theme.pdf "This piece was the first one I ever wrote with the specific intention to be used in a video game. The motifs are a bit overused, but I think it still came together well."
 [vn]: http://en.wikipedia.org/wiki/Visual_novel "Visual Novels are NOT porn games, though I definitely understand why they have that reputation. While some are simply malodorous tripe, others are beautifully written and told stories with memorable plotlines and characters. Just like any artform, it is a means of expression, not confined to one area of storytelling."
 [nubivagant]: https://s3.amazonaws.com/cdr255/compositions/cdr-nbv01.nubivagant-wind-quartet.pdf "Nubivagant is an old, out of use word which means 'Wandering through clouds, moving through the air'. I want to convey the wind, and birds, with this piece."
+[penantumbra]: https://s3.amazonaws.com/cdr255/compositions/cdr-pnu01-penant-umbra-theme.pdf "I am actually pretty excited about this series, and what might grow from it. It is pretty loosely defined at the moment, but hopefully as I finish/progress with some of my other projects it will solidify a bit more."
+[pygmalion]: https://s3.amazonaws.com/cdr255/compositions/cdr-pyg01-_pyg_-malion.pdf "I began work on this story as a part of Camp NaNoWriMo, in July 2015. I ended the month with a bit under 13000 words written, but I am continuing my work on it in the time between now and November. Hopefully the first draft will be done by then."

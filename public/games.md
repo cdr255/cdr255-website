@@ -10,6 +10,9 @@ I am a bit of a game designer, and these are my projects.
    elses.
  - __Elemental Warfare__ - A game about gaining and holding on to
    territory.
+ - __Three Way__ - A point collecting game based around choosing Your
+   own path.
+ 
 
 ### Video Games
 
