@@ -31,6 +31,19 @@ different languages and paradigms, but I am most used to [C++][cpp],
 
 I am on [github][github], too!
 
+### Writing
+
+I have a [serial blog][serial] called [Prose and Prosody][prose], and
+often participate in projects like [NaNoWriMo][nano]. Some of my
+ongoing / past projects *not* hosted on [Prose and Prosody][prose]
+include [Affuage][affuage] and [Project Pygmalion][pyg].
+
+I try to make as much of a habit out of writing as I can. I also have
+a blog, [Toft and Toddy][toft], where I write about whatever is on my
+mind at the moment.
+
+Let me know what You think!
+
 ### Games
 
 I play a lot of games, and I am something of a game designer, as well.
@@ -64,6 +77,12 @@ cards, and an abstract city building game. I am on
 [ruby]: https://www.ruby-lang.org/en/ " "
 [lisp]: https://common-lisp.net/ " "
 [github]: https://github.com/cdr255/ " "
+[serial]: https://en.wikipedia.org/wiki/Serial_(literature) " "
+[prose]: http://www.proseandprosody.com/ " "
+[nano]: http://nanowrimo.org/ " "
+[affuage]: http://affuage.blogspot.com/ " "
+[pyg]: http://projectpygmalion.herokuapp.com/ " "
+[toft]: http://www.toftandtoddy.com/ " "
 [log]: /logs " "
 [review]: /reviews " "
 [steam]: http://steamcommunity.com/id/cdr255/ " "

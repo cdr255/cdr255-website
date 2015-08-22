@@ -15,7 +15,10 @@ are written.
 
 ---
 
+### Tune Collections
+
+ - [Bass Guitar][bass] - Songs I play on the Bass Guitar.
 
 
-
+[bass]: http://www.toftandtoddy.com/2015/05/24/band-only-bass-collection/ " "
 [toft]: http://www.toftandtoddy.com/ " "

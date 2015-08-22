@@ -7,6 +7,13 @@ reminder to us all of the fun times that we had during the game.
 
 ---
 
+### Dread
+
+__System:__ Dread RPG _(NB. Dread games are normally one-shots, so
+each entry is generally a complete story.
+
+1. __Beneath a Steel Sky__ (Coming soon!)
+
 ### End of the Empire
 
 __System:__ Dungeons and Dragons, 3.5 edition

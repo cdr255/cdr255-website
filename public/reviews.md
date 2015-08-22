@@ -14,9 +14,10 @@ Traditional Overview and Recommendation based reviews.
 
 Taking a game, or a facet of a game, and going deeper than necessary about it.
 
- - [Why I Like Dark Souls][whydarksouls] - Intrinsic Storytelling.
+ - [Conflicting Opinions][conflict] - Analysing conflict in modern games.
  - [The Difference Between Monster Hunter and MMOs][mhmmo] - Real World-Feel vs. Community-Feel.
  - [Intro to Jade Cocoon][jadeintro] - Me introducing my (literal) favorite game of all time.
+ - [Why I Like Dark Souls][whydarksouls] - Intrinsic Storytelling.
 
 ### How-Tos
 
@@ -30,4 +31,4 @@ How to do things in or with computer games.
 [mhmmo]: http://www.toftandtoddy.com/2015/05/03/hunting-monsters-offline/ " "
 [jadeintro]: http://www.toftandtoddy.com/2013/09/27/Intro-to-Jade-Cocoon/ " "
 [aw2tourney]: http://www.toftandtoddy.com/2014/03/24/Advance-Wars-II-Computer-Tourney/ " "
-
+[conflict]: http://www.toftandtoddy.com/2015/08/16/conflicting-opinions/ " "
