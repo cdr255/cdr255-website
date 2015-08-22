@@ -10,7 +10,7 @@ reminder to us all of the fun times that we had during the game.
 ### Dread
 
 __System:__ Dread RPG _(NB. Dread games are normally one-shots, so
-each entry is generally a complete story.
+each entry is generally a complete story.)_
 
 1. __Beneath a Steel Sky__ (Coming soon!)
 
