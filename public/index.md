@@ -1,5 +1,3 @@
-## Hello There!
-
 <div id="floatleft">
 [![My Picture](https://s3.amazonaws.com/cdr255/cdr255-logo.png)](https://s3.amazonaws.com/cdr255/cdr255-logo.png)
 </div>
