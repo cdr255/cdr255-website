@@ -23,5 +23,6 @@ respective groups:
 [quiz]: http://tuxradar.com/content/distro-picker-0 " "
 [slackware]: http://www.slackware.com/ " "
 [rms]: https://stallman.org/ " "
+[fsf]: http://www.fsf.org/ " "
 [linus]: http://catb.org/~esr/faqs/linus/ " "
 [lf]: http://www.linuxfoundation.org/ " "

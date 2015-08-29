@@ -17,8 +17,9 @@ are written.
 
 ### Tune Collections
 
+ - [Banjo][banjo] - Songs and Tunes I play on 5-string banjo.
  - [Bass Guitar][bass] - Songs I play on the Bass Guitar.
 
-
+[banjo]: http://www.toftandtoddy.com/2015/08/25/first-banjo-tune-list/ " "
 [bass]: http://www.toftandtoddy.com/2015/05/24/band-only-bass-collection/ " "
 [toft]: http://www.toftandtoddy.com/ " "
