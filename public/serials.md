@@ -7,6 +7,9 @@ as long as You:
 1. Attribute me as the composer of the original.
 2. Let others do the same to the resulting work.
 
+All of these works follow a [Story Code][code] that I expand upon
+[here][toftcode].
+
 ---
 
 ### [BꜷD] - Space Station Murder Mystery
@@ -20,6 +23,7 @@ begin appearing all around her, directing her to places and evidence
 that might clear her name... But who is behind this... and why?
 
 1. [Alone in Detainment][baud01]
+2. [System Failure?][baud02]
 
 ---
 
@@ -134,6 +138,7 @@ will she just become another "happening"?
 ---
 
 [baud01]: http://www.proseandprosody.com/2015/04/baud-01-alone-in-detainment.html " "
+[baud02]: http://www.proseandprosody.com/2015/09/baud-02-system-failure.html " "
 [gam01]: http://www.proseandprosody.com/2015/03/gam-01-xiksas-travels.html " "
 [gam02]: http://www.proseandprosody.com/2015/05/gam-02-xiksa-in-castlegate.html " "
 [gam03]: http://www.proseandprosody.com/2015/08/gam-03-sabrine-mon-marion.html " "
@@ -147,3 +152,5 @@ will she just become another "happening"?
 [sms01]: http://www.proseandprosody.com/2015/03/sms-01-geoff-leonne.html " "
 [sms02]: http://www.proseandprosody.com/2015/08/sms-01-debra-ovale.html " "
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/ " "
+[code]: http://www.proseandprosody.com/p/story-code-story-code-story-code-you.html " "
+[toftcode]: http://www.toftandtoddy.com/2015/09/02/encoded-stories/ " "
