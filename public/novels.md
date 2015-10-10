@@ -30,3 +30,4 @@ as long as You:
 [affuage]: http://affuage.blogspot.com/ "I set this up for NaNoWriMo 2014."
 [pyg]: http://projectpygmalion.herokuapp.com/ "I set this site up for Camp NaNoWriMo 2015 (July)."
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/ " "
+

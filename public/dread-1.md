@@ -91,7 +91,7 @@ on reserve power.
 
 With the right finegaling, __Captain Sterling__ was able to get it
 open. The team proceeded to the Cargo Bay, which was just as dark (and
-low-gravity) as the docking bay.
+low-gravity) as the docking bay. 
 
 ## Part III: Stranded ##
 

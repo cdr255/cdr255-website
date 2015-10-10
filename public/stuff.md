@@ -29,9 +29,9 @@ and licensed to the public under the [GPLv2][gpl2].
 
  - Character Detail Sheet v1.1 - [Download][chardetailform]
  - World Building Sheet v0.5 - [Download][worldbuildform]
- - [Capes RPG][capes] Unofficial Forms-Mode Sheet v1.0 - [Download][capesform]
+ - [Capes RPG][capes] Unofficial Forms-Mode Character Sheet v1.0 - [Download][capesform]
  - Item Codex Sheet v0.5 - [Download][itemform]
-
+ - [True20][true20] Unofficial Forms-Mode Character Sheet v1.0 - [Download][true20form]
 
 [ttrpg]: http://en.wikipedia.org/wiki/Tabletop_role-playing_game " "
 [capes]: http://www.museoffire.com/Games/ " "
@@ -47,3 +47,5 @@ and licensed to the public under the [GPLv2][gpl2].
 [capesform]: https://s3.amazonaws.com/cdr255/code/capes-characters.form " "
 [itemform]: https://s3.amazonaws.com/cdr255/code/items-codex.form " "
 [gpl2]: http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html " "
+[true20]: http://true20.com/ " "
+[true20form]: https://s3.amazonaws.com/toft-and-toddy/code/true20-chars.form " "

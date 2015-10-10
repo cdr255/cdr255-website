@@ -2,7 +2,7 @@
 [![My Picture](https://s3.amazonaws.com/cdr255/cdr255-logo.png)](https://s3.amazonaws.com/cdr255/cdr255-logo.png)
 </div>
 
-### Last Update: 2015-09-05
+### Last Update: 2015-10-09
 
 Welcome to my little corner of the web. My name is Christopher
 Rodriguez. I make music, games, and programs.
@@ -31,10 +31,10 @@ am fairly active on [social media][social] as well.
 
 ### Recent Updates
 
+- Added the True20 [Forms-Mode Character Sheet][toftpost] to [Other Stuff][stuff]
+- Added my [True20][true20] "Empyrean Tempest" content to [My Games][games].
+- Added four new sidebar buttons, to show some love to *Kramdown*, *Lilypond*, *LISP*, and *Node.JS*.
 - Added a widget to the [Recordings](recordings) page with more of my recent tracks.
-- Updated [Serial Fiction](serials) with reference to the [Story Code Update](http://www.toftandtoddy.com/2015/09/02/encoded-stories/) and [BAUD-02](http://www.proseandprosody.com/2015/09/baud-02-system-failure.html)
-- Changed Above Tracks to reference [I Truly Understand](https://soundcloud.com/cdr255/i-truly-understand-one-take-ver)
-- Changed Above Tracks to reference [Penant Umbra](https://soundcloud.com/cdr255/cdr-pnu01-penant-umbra)
   
 [sheet]: compositions " "
 [fonts]: conlangs " "
@@ -43,3 +43,6 @@ am fairly active on [social media][social] as well.
 [toft]: http://www.toftandtoddy.com " "
 [email]: mailto:cdr255@gmail.com " "
 [social]: links " "
+[toftpost]: http://www.toftandtoddy.com/2015/09/22/true20-character-sheet/ " "
+[true20]: http://true20.com/ " "
+[stuff]: stuff " "
