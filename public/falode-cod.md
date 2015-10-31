@@ -2,16 +2,16 @@
 
 ### Paladin Code
 
-> The Paladin of Falode is the lowest of the high,\\
-> With all their colors shown and their shields to the sky.\\
-> They guard against injustice, for they know that not all can,\\
-> And they guard against the fervor of all new and unknown fans.\\
-> As symbols they must stand alone, bereft of any sin,\\
-> And hatred must never be known between their next of kin.\\
-> When needed they will put aside all else to make a stand,\\
-> When heeded they will purify all others in their band.\\
-> Exchanging all else in this world to show how Good can be,\\
-> The Paladin of Falode is quite good company.\\
+> The Paladin of Falode is the lowest of the high,  
+> With all their colors shown and their shields to the sky.  
+> They guard against injustice, for they know that not all can,  
+> And they guard against the fervor of all new and unknown fans.  
+> As symbols they must stand alone, bereft of any sin,  
+> And hatred must never be known between their next of kin.  
+> When needed they will put aside all else to make a stand,  
+> When heeded they will purify all others in their band.  
+> Exchanging all else in this world to show how Good can be,  
+> The Paladin of Falode is quite good company.  
 
 1. Cannot openly pursue greatness for greatness's sake.
 2. They must always respect and show their colors and their arms.
