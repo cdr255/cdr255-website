@@ -11,6 +11,7 @@ I'm currently about to launch a new ttrpg campaign using the
 I'm developing because of that here as they are finished.
 
  - [Backgrounds][true20bgs]
+ - [Codes of Honor][true20cod]
  - [The Falodian Pantheon][true20pan]
  - [Map of Beebrook Region][true20map]
 
@@ -34,3 +35,4 @@ I'm developing because of that here as they are finished.
 [true20bgs]: falode-bgs " "
 [true20pan]: falode-god " "
 [true20map]: https://s3.amazonaws.com/cdr255/beebrook-area-pregame.png " "
+[true20cod]: falode-cod " "
