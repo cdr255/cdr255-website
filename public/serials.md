@@ -116,7 +116,7 @@ of her previous life?
 
 ---
 
-### [SAD] - World Dependant Theiving Duo
+### [SaD] - World Dependant Theiving Duo
 
 __Style__: Prose
 
@@ -149,21 +149,21 @@ will she just become another "happening"?
 
 ---
 
-[baud01]: http://www.proseandprosody.com/2015/BAUD-01-alone-in-detainment/ " "
-[baud02]: http://www.proseandprosody.com/2015/BAUD-02-system-failure/ " "
-[gam01]: http://www.proseandprosody.com/2015/GAM-01-xiksas-travels/ " "
-[gam02]: http://www.proseandprosody.com/2015/GAM-02-xiksa-in-castlegate/ " "
-[gam03]: http://www.proseandprosody.com/2015/GAM-03-sabrine-mon-marion/ " "
-[ked01]: http://www.proseandprosody.com/2015/KED-01-scrawled-on-page-233/ " "
-[ked02]: http://www.proseandprosody.com/2015/KED-02-ysvelten-dezbana/ " "
-[loe01]: http://www.proseandprosody.com/2015/LOE-genera-ph-i-xx/ " "
+[baud01]: http://www.proseandprosody.com/2015/BAUD-01-Alone-in-Detainment/ " "
+[baud02]: http://www.proseandprosody.com/2015/BAUD-02-System-Failure/ " "
+[gam01]: http://www.proseandprosody.com/2015/GAM-01-Xiksas-Travels/ " "
+[gam02]: http://www.proseandprosody.com/2015/GAM-02-Xiksa-in-Castlegate/ " "
+[gam03]: http://www.proseandprosody.com/2015/GAM-03-Sabrine-Mon-Marion/ " "
+[ked01]: http://www.proseandprosody.com/2015/KED-01-Scrawled-on-Page-233/ " "
+[ked02]: http://www.proseandprosody.com/2015/KED-02-Ysvelten-Dezbana/ " "
+[loe01]: http://www.proseandprosody.com/2015/LOE-Genera-ph-I-XX/ " "
 [mbd01]: http://www.proseandprosody.com/2015/mbd-01-madeleine-fare/ " "
-[mvb01]: http://www.proseandprosody.com/2015/MVB-01-conflict-born-out-of-kiss/ " "
-[pnu01]: http://www.proseandprosody.com/2015/PNU-01-judith-richter/ " "
-[sad01]: http://www.proseandprosody.com/2015/SAD-01-singer-and-thief/ " "
-[sad02]: http://www.proseandprosody.com/2015/SAD-02-home-free-home/ " "
-[sms01]: http://www.proseandprosody.com/2015/SMS-01-geoff-leonne/ " "
-[sms02]: http://www.proseandprosody.com/2015/SMS-01-debra-ovale/ " "
+[mvb01]: http://www.proseandprosody.com/2015/MVB-01-Flashing-Destiny/ " "
+[pnu01]: http://www.proseandprosody.com/2015/PNU-01-Judith-Richter/ " "
+[sad01]: http://www.proseandprosody.com/2015/SAD-01-The-Singer-and-the-Thief/ " "
+[sad02]: http://www.proseandprosody.com/2015/SAD-02-Home-Free-Home/ " "
+[sms01]: http://www.proseandprosody.com/2015/SMS-01-Geoff-Leonne/ " "
+[sms02]: http://www.proseandprosody.com/2015/SMS-01-Debra-O-Vale/ " "
 [sms03]: http://www.proseandprosody.com/2016/sms-03-investigative-disbelief/ " "
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/ " "
 [code]: http://www.proseandprosody.com/p/story-code-story-code-story-code-you.html " "
