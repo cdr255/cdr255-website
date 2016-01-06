@@ -74,6 +74,17 @@ a head one morning, and the world is never the same again.
 
 ---
 
+### [MBD] - A Curse, A Cult, and A Historic Event
+
+__Style__: Prose
+
+Madeline is a woman with a secretly tragic past. But, in
+exchange, she has gained great insight and fortune in the present- So
+long as she maintains the curse she now bears.
+
+1. [Madeleine Fare][mbd01]
+
+
 ### [MVB] - Minute Fantasy Romantic Tragedy
 
 __Style__: Ballad
@@ -138,20 +149,21 @@ will she just become another "happening"?
 
 ---
 
-[baud01]: http://www.proseandprosody.com/2015/baud-01-alone-in-detainment/ " "
-[baud02]: http://www.proseandprosody.com/2015/baud-02-system-failure/ " "
-[gam01]: http://www.proseandprosody.com/2015/gam-01-xiksas-travels/ " "
-[gam02]: http://www.proseandprosody.com/2015/gam-02-xiksa-in-castlegate/ " "
-[gam03]: http://www.proseandprosody.com/2015/gam-03-sabrine-mon-marion/ " "
-[ked01]: http://www.proseandprosody.com/2015/ked-01-scrawled-on-page-233/ " "
-[ked02]: http://www.proseandprosody.com/2015/ked-02-ysvelten-dezbana/ " "
-[loe01]: http://www.proseandprosody.com/2015/loe-genera-ph-i-xx/ " "
-[mvb01]: http://www.proseandprosody.com/2015/mvb-01-conflict-born-out-of-kiss/ " "
-[pnu01]: http://www.proseandprosody.com/2015/pnu-01-judith-richter/ " "
-[sad01]: http://www.proseandprosody.com/2015/sad-01-singer-and-thief/ " "
-[sad02]: http://www.proseandprosody.com/2015/sad-02-home-free-home/ " "
-[sms01]: http://www.proseandprosody.com/2015/sms-01-geoff-leonne/ " "
-[sms02]: http://www.proseandprosody.com/2015/sms-01-debra-ovale/ " "
+[baud01]: http://www.proseandprosody.com/2015/BAUD-01-alone-in-detainment/ " "
+[baud02]: http://www.proseandprosody.com/2015/BAUD-02-system-failure/ " "
+[gam01]: http://www.proseandprosody.com/2015/GAM-01-xiksas-travels/ " "
+[gam02]: http://www.proseandprosody.com/2015/GAM-02-xiksa-in-castlegate/ " "
+[gam03]: http://www.proseandprosody.com/2015/GAM-03-sabrine-mon-marion/ " "
+[ked01]: http://www.proseandprosody.com/2015/KED-01-scrawled-on-page-233/ " "
+[ked02]: http://www.proseandprosody.com/2015/KED-02-ysvelten-dezbana/ " "
+[loe01]: http://www.proseandprosody.com/2015/LOE-genera-ph-i-xx/ " "
+[mbd01]: http://www.proseandprosody.com/2015/mbd-01-madeleine-fare/ " "
+[mvb01]: http://www.proseandprosody.com/2015/MVB-01-conflict-born-out-of-kiss/ " "
+[pnu01]: http://www.proseandprosody.com/2015/PNU-01-judith-richter/ " "
+[sad01]: http://www.proseandprosody.com/2015/SAD-01-singer-and-thief/ " "
+[sad02]: http://www.proseandprosody.com/2015/SAD-02-home-free-home/ " "
+[sms01]: http://www.proseandprosody.com/2015/SMS-01-geoff-leonne/ " "
+[sms02]: http://www.proseandprosody.com/2015/SMS-01-debra-ovale/ " "
 [sms03]: http://www.proseandprosody.com/2016/sms-03-investigative-disbelief/ " "
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/ " "
 [code]: http://www.proseandprosody.com/p/story-code-story-code-story-code-you.html " "
