@@ -163,7 +163,7 @@ will she just become another "happening"?
 [sad01]: http://www.proseandprosody.com/2015/SAD-01-The-Singer-and-the-Thief/ " "
 [sad02]: http://www.proseandprosody.com/2015/SAD-02-Home-Free-Home/ " "
 [sms01]: http://www.proseandprosody.com/2015/SMS-01-Geoff-Leonne/ " "
-[sms02]: http://www.proseandprosody.com/2015/SMS-01-Debra-O-Vale/ " "
+[sms02]: http://www.proseandprosody.com/2015/SMS-02-Debra-O-Vale/ " "
 [sms03]: http://www.proseandprosody.com/2016/sms-03-investigative-disbelief/ " "
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/ " "
 [code]: http://www.proseandprosody.com/p/story-code-story-code-story-code-you.html " "
