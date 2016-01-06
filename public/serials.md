@@ -154,7 +154,7 @@ will she just become another "happening"?
 [gam01]: http://www.proseandprosody.com/2015/GAM-01-Xiskas-Travels/ " "
 [gam02]: http://www.proseandprosody.com/2015/GAM-02-Xiksa-in-Castlegate/ " "
 [gam03]: http://www.proseandprosody.com/2015/GAM-03-Sabrine-Mon-Marion/ " "
-[ked01]: http://www.proseandprosody.com/2015/KED-01-Scrawled-on-Page-233/ " "
+[ked01]: http://www.proseandprosody.com/2015/KED-01-Page-233/ " "
 [ked02]: http://www.proseandprosody.com/2015/KED-02-Ysvelten-Dezbana/ " "
 [loe01]: http://www.proseandprosody.com/2015/LOE-Genera-ph-I-XX/ " "
 [mbd01]: http://www.proseandprosody.com/2015/mbd-01-madeleine-fare/ " "
