@@ -151,7 +151,7 @@ will she just become another "happening"?
 
 [baud01]: http://www.proseandprosody.com/2015/BAUD-01-Alone-in-Detainment/ " "
 [baud02]: http://www.proseandprosody.com/2015/BAUD-02-System-Failure/ " "
-[gam01]: http://www.proseandprosody.com/2015/GAM-01-Xiksas-Travels/ " "
+[gam01]: http://www.proseandprosody.com/2015/GAM-01-Xiskas-Travels/ " "
 [gam02]: http://www.proseandprosody.com/2015/GAM-02-Xiksa-in-Castlegate/ " "
 [gam03]: http://www.proseandprosody.com/2015/GAM-03-Sabrine-Mon-Marion/ " "
 [ked01]: http://www.proseandprosody.com/2015/KED-01-Scrawled-on-Page-233/ " "
