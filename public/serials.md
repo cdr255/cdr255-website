@@ -156,7 +156,7 @@ will she just become another "happening"?
 [gam03]: http://www.proseandprosody.com/2015/GAM-03-Sabrine-Mon-Marion/ " "
 [ked01]: http://www.proseandprosody.com/2015/KED-01-Page-233/ " "
 [ked02]: http://www.proseandprosody.com/2015/KED-02-Ysvelten-Dezbana/ " "
-[loe01]: http://www.proseandprosody.com/2015/LOE-Genera-ph-I-XX/ " "
+[loe01]: http://www.proseandprosody.com/2015/LOE-01-Genera-ph-I-XX/ " "
 [mbd01]: http://www.proseandprosody.com/2015/mbd-01-madeleine-fare/ " "
 [mvb01]: http://www.proseandprosody.com/2015/MVB-01-Flashing-Destiny/ " "
 [pnu01]: http://www.proseandprosody.com/2015/PNU-01-Judith-Richter/ " "
