@@ -2,7 +2,7 @@
 [![My Picture](https://s3.amazonaws.com/cdr255/cdr255-logo.png)](https://s3.amazonaws.com/cdr255/cdr255-logo.png)
 </div>
 
-### Last Update: 2016-01-05
+### Last Update: 2016-03-22
 
 Welcome to my little corner of the web. My name is Christopher
 Rodriguez. I make music, games, and programs.
@@ -31,10 +31,10 @@ am fairly active on [social media][social] as well.
 
 ### Recent Updates
 
+- Updated the [Tintenn][tintenn] page with all Season 0 posts.
 - Updated the [Serial Fiction][serial] page, fixed links.
 - Added the [Tintenn][tintenn] archive page.
 - Added the True20 [Forms-Mode Character Sheet][toftpost] to [Other Stuff][stuff]
-- Added my [True20][true20] "Empyrean Tempest" content to [My Games][games].
 
 [sheet]: compositions " "
 [fonts]: conlangs " "
@@ -43,6 +43,7 @@ am fairly active on [social media][social] as well.
 [toft]: http://www.toftandtoddy.com " "
 [email]: mailto:cdr255@gmail.com " "
 [social]: links " "
+[tintenn]: https://twitter.com/search?q=%23tintenn&src=typd " "
 [toftpost]: http://www.toftandtoddy.com/2015/09/22/true20-character-sheet/ " "
 [true20]: http://true20.com/ " "
 [stuff]: stuff " "

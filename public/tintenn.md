@@ -7,7 +7,9 @@ order. Please, Enjoy, and stay tuned to the above hashtag for updates!
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Some memories are like opening the car window during a rainstorm: Reality splashes your cheeks before you can shut it out again. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/659463720268099584">October 28, 2015</a></blockquote>
 
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Shades of that night left them drenched in a rancid torrent of horrific reality. It was the secret that formed their friendship. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/659887473527533568">October 30, 2015</a></blockquote>
+
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">It was the event that still tied them together, and to this place: The Begrove Estate, a mansion sat on ten acres of pinelands. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/660246019754565633">October 31, 2015</a></blockquote>
 
@@ -34,6 +36,28 @@ order. Please, Enjoy, and stay tuned to the above hashtag for updates!
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">They emerged from the car, announced by a muffled rustling of the umbrella, followed by the firework-scattering sound of raindrops. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/683506730643374080">January 3, 2016</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">With a simultaneous sigh, they both silently affirmed that getting here was the easiest part of the coming week. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/684454988815429632">January 5, 2016</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Begrove Estate&#39;s mansion was a diorama of emotion: memories and treasures frozen in time, beneath a tragic coat of dust. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/685184218771636225">January 7, 2016</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">He spoke with the authority of a younger sibling used to responsibility. They began to do as he said, though a few wavered. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/688280129986887681">January 16, 2016</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;On Your way out, You can take down this tape.&quot; Lon&#39;s ungloved hand tore the barrier in front of him. &quot;We won&#39;t need it.&quot; <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/688517985913405445">January 17, 2016</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Most were moving now, gingerly taking down the caution tape that had been a short lived part of their front hall. It took a bit. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/689193581874122752">January 18, 2016</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When all but a skeleton force had dispersed, they both sighed and relaxed a little. After that beautiful moment, they got to work. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/690006257609089024">January 21, 2016</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Alright, Rei, what exactly are we doing here again?&quot; Lon&#39;s sharp gaze fell upon the woman, with nearly as much disdain as before. <a href="https://twitter.com/hashtag/tintenn?src=hash">#tintenn</a></p>&mdash; Chris Rodriguez (@cdr255) <a href="https://twitter.com/cdr255/status/691835622915489792">January 26, 2016</a></blockquote>
+
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
